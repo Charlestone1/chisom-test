@@ -13,6 +13,8 @@ const JobListing = () => {
             <h2>JobListing</h2>
 
             <p>Job list card goes here</p>
+
+            <p>Okechukwu is a good developer. </p>
         </div>
     )
 }
